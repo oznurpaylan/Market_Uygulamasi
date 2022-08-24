@@ -1,0 +1,71 @@
+C:\Users\lenovo\source\repos\zincir market 1\zincir market 1\bin\Debug\zincir market 1.exe.config
+C:\Users\lenovo\source\repos\zincir market 1\zincir market 1\bin\Debug\zincir market 1.exe
+C:\Users\lenovo\source\repos\zincir market 1\zincir market 1\bin\Debug\zincir market 1.pdb
+C:\Users\lenovo\source\repos\zincir market 1\zincir market 1\obj\Debug\zincir market 1.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\zincir market 1\zincir market 1\obj\Debug\zincir_market_1.Form1.resources
+C:\Users\lenovo\source\repos\zincir market 1\zincir market 1\obj\Debug\zincir_market_1.Form2.resources
+C:\Users\lenovo\source\repos\zincir market 1\zincir market 1\obj\Debug\zincir_market_1.Form3.resources
+C:\Users\lenovo\source\repos\zincir market 1\zincir market 1\obj\Debug\zincir_market_1.Form4.resources
+C:\Users\lenovo\source\repos\zincir market 1\zincir market 1\obj\Debug\zincir_market_1.Properties.Resources.resources
+C:\Users\lenovo\source\repos\zincir market 1\zincir market 1\obj\Debug\zincir market 1.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\zincir market 1\zincir market 1\obj\Debug\zincir market 1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\zincir market 1\zincir market 1\obj\Debug\zincir market 1.exe
+C:\Users\lenovo\source\repos\zincir market 1\zincir market 1\obj\Debug\zincir market 1.pdb
+C:\Users\lenovo\source\repos\zincir market 1\zincir market 1\obj\Debug\zincir_market_1.Form5.resources
+C:\Users\lenovo\source\repos\zincir market 1\zincir market 1\obj\Debug\zincir_market_1.Form6.resources
+C:\Users\lenovo\source\repos\zincir market 1\zincir market 1\obj\Debug\zincir_market_1.Form7.resources
+C:\Users\Dize\Desktop\Zincir Market\bin\Debug\zincir market 1.exe.config
+C:\Users\Dize\Desktop\Zincir Market\bin\Debug\zincir market 1.exe
+C:\Users\Dize\Desktop\Zincir Market\bin\Debug\zincir market 1.pdb
+C:\Users\Dize\Desktop\Zincir Market\bin\Debug\EntityFramework.dll
+C:\Users\Dize\Desktop\Zincir Market\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dize\Desktop\Zincir Market\bin\Debug\EntityFramework.xml
+C:\Users\Dize\Desktop\Zincir Market\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dize\Desktop\Zincir Market\obj\Debug\zincir market 1.csprojAssemblyReference.cache
+C:\Users\Dize\Desktop\Zincir Market\obj\Debug\zincir_market_1.Form5.resources
+C:\Users\Dize\Desktop\Zincir Market\obj\Debug\zincir_market_1.Properties.Resources.resources
+C:\Users\Dize\Desktop\Zincir Market\obj\Debug\zincir market 1.csproj.GenerateResource.cache
+C:\Users\Dize\Desktop\Zincir Market\obj\Debug\zincir market 1.csproj.CoreCompileInputs.cache
+C:\Users\Dize\Desktop\Zincir Market\obj\Debug\zincir market 1.csproj.CopyComplete
+C:\Users\Dize\Desktop\Zincir Market\obj\Debug\zincir market 1.exe
+C:\Users\Dize\Desktop\Zincir Market\obj\Debug\zincir market 1.pdb
+C:\Users\Dize\Desktop\Zincir Market\obj\Debug\zincir_market_1.Migrations.InitialCreate.resources
+C:\Users\Dize\Desktop\Zincir Market\obj\Debug\zincir_market_1.siparişOluştu.resources
+C:\Users\Dize\Desktop\Zincir Market\obj\Debug\zincir_market_1.tedarikciForm.resources
+C:\Users\Dize\Desktop\Zincir Market\obj\Debug\zincir_market_1.tedarikçiSipariş.resources
+C:\Users\Dize\Desktop\Zincir Market\obj\Debug\hanımeli.girisForm.resources
+C:\Users\Dize\Desktop\Zincir Market\obj\Debug\hanımeli.yoneticiGiris.resources
+C:\Users\Dize\Desktop\Zincir Market\obj\Debug\hanımeli.personelGiris.resources
+C:\Users\Dize\Desktop\Zincir Market\obj\Debug\hanımeli.yoneticiEkran.resources
+C:\Users\Dize\Desktop\Zincir Market\obj\Debug\hanımeli.urunForm.resources
+C:\Users\Dize\Desktop\Zincir Market\obj\Debug\hanımeli.subeForm.resources
+C:\Users\Dize\Desktop\Zincir Market\obj\Debug\hanımeli.personelBilgi.resources
+C:\Users\Dize\Desktop\Zincir Market\obj\Debug\zincir_market_1.urunEkleCikar.resources
+C:\Users\Dize\Desktop\Zincir Market\obj\Debug\zincir_market_1.personelListe.resources
+C:\Users\HP\Desktop\github\Zincir Market\bin\Debug\zincir market 1.exe.config
+C:\Users\HP\Desktop\github\Zincir Market\bin\Debug\zincir market 1.exe
+C:\Users\HP\Desktop\github\Zincir Market\bin\Debug\zincir market 1.pdb
+C:\Users\HP\Desktop\github\Zincir Market\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\github\Zincir Market\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\github\Zincir Market\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\github\Zincir Market\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\github\Zincir Market\obj\Debug\zincir market 1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\github\Zincir Market\obj\Debug\hanımeli.girisForm.resources
+C:\Users\HP\Desktop\github\Zincir Market\obj\Debug\hanımeli.yoneticiGiris.resources
+C:\Users\HP\Desktop\github\Zincir Market\obj\Debug\hanımeli.personelGiris.resources
+C:\Users\HP\Desktop\github\Zincir Market\obj\Debug\hanımeli.yoneticiEkran.resources
+C:\Users\HP\Desktop\github\Zincir Market\obj\Debug\hanımeli.subeForm.resources
+C:\Users\HP\Desktop\github\Zincir Market\obj\Debug\hanımeli.personelBilgi.resources
+C:\Users\HP\Desktop\github\Zincir Market\obj\Debug\hanımeli.urunForm.resources
+C:\Users\HP\Desktop\github\Zincir Market\obj\Debug\zincir_market_1.urunEkleCikar.resources
+C:\Users\HP\Desktop\github\Zincir Market\obj\Debug\zincir_market_1.personelListe.resources
+C:\Users\HP\Desktop\github\Zincir Market\obj\Debug\zincir_market_1.Form5.resources
+C:\Users\HP\Desktop\github\Zincir Market\obj\Debug\zincir_market_1.Migrations.InitialCreate.resources
+C:\Users\HP\Desktop\github\Zincir Market\obj\Debug\zincir_market_1.Properties.Resources.resources
+C:\Users\HP\Desktop\github\Zincir Market\obj\Debug\zincir_market_1.siparişOluştu.resources
+C:\Users\HP\Desktop\github\Zincir Market\obj\Debug\zincir_market_1.tedarikciForm.resources
+C:\Users\HP\Desktop\github\Zincir Market\obj\Debug\zincir_market_1.tedarikçiSipariş.resources
+C:\Users\HP\Desktop\github\Zincir Market\obj\Debug\zincir market 1.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\github\Zincir Market\obj\Debug\zincir market 1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\github\Zincir Market\obj\Debug\zincir market 1.exe
+C:\Users\HP\Desktop\github\Zincir Market\obj\Debug\zincir market 1.pdb
